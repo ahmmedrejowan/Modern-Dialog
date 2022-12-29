@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.CuteDialog" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/dialog_main</item>
+        <item name="colorSecondary">@color/dialog_text</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
