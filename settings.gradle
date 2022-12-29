@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ModernDialog"
 include ':app'
+include ':ModernDialog'
